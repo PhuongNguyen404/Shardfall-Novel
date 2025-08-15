@@ -1,7 +1,7 @@
 # Shardfall – Samples
 
-This folder contains **preview excerpts** from *Shardfall: Illusion of Truth*.  
-They are provided for reading only — please see the main [README](../README.md) for project details and the [License](../License) for usage terms.
+Preview excerpts from *Shardfall: Illusion of Truth*.  
+For project details, see the main [README](../README.md). License: [CC BY-NC-ND 4.0](../License).
 
-## Available Excerpts
+## Available
 - [Prologue](Prologue.md)
