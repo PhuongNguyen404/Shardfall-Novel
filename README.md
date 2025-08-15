@@ -1,15 +1,44 @@
-# Shardfall–Novel  
-Original fantasy/sci-fi novel project with deep lore, multi-perspective storytelling, and adaptable narrative design for potential interactive formats.  
+# Shardfall – Novel
+*By Phuong Nguyen*
+
+Original fantasy/sci-fi project with deep lore, multi-perspective storytelling, and an adaptable narrative world built for potential interactive formats.
 
 ---
 
-## 📖 Read Samples  
-- [Prologue](samples/Prologue.md)  
+## 📌 About this repo (for recruiters)
+This repository showcases my skills in:
+- Narrative design & creative writing
+- Worldbuilding & systems thinking
+- Content organization with GitHub (README structure, folders, licensing)
+- Clear communication & documentation
 
 ---
 
-## 📌 Project Status  
-Draft in progress — Prologue complete, main chapters in development.  
+## 📖 Start Reading
+- **[Prologue](samples/Prologue.md)**
 
-## 🛡 License  
-This work is licensed under [CC BY-NC-ND 4.0](License), meaning you can share it with credit, but no commercial use or modifications.  
+---
+
+## 🗂 Repo Structure
+- `/samples` – teaser excerpts (no spoilers)
+- `/lore` – world notes (coming soon)
+- `/characters` – brief bios (coming soon)
+
+---
+
+## 🛠 Skills Demonstrated
+Creative writing • Narrative design • Worldbuilding • Documentation • Version control basics
+
+---
+
+## 🧭 Project Status
+- [x] Set up public teaser repo with license
+- [x] Publish **Prologue** excerpt
+- [ ] Add **Lore Snapshot** (coming)
+- [ ] Add **Headmaster** bio (coming)
+- [ ] First-chapter teaser (optional)
+
+---
+
+## 🛡 License
+This work is licensed under **CC BY-NC-ND 4.0**. You may share with credit; no commercial use or modifications. See: [License](License)
